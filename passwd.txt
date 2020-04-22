@@ -1,0 +1,15 @@
+hadoop
+hive
+flume
+kafka
+hbase
+Tez
+mysql
+redis
+spark
+flink
+canal
+dataX
+scala
+git
+JVM&JUC
